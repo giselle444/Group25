@@ -1,4 +1,4 @@
-package Group25;
+package Group25.Giselle;
 
 public class OddOrEven {
      /*
