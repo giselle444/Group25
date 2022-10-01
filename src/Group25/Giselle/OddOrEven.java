@@ -3,7 +3,7 @@ package Group25.Giselle;
 public class OddOrEven {
      /*
         1. Numbers -- odd & even
-        Write  a method which can identifies given number is even or odd
+        Write  a method which can identifies given number is even or oddd
          */
 
     public static void main(String[] args) {
