@@ -1,7 +1,7 @@
 package Group25.Lucy;
 
 public class FINRA {
-    public static class FINRA {
+    public static class FINRALucy {
            /*
             3.Numbers -- FINRA
     Write a method which prints out the numbers from 1 to 30 but
